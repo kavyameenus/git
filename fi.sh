@@ -6,3 +6,4 @@ echo "$file  found"
 else
 echo "$file not found"
 fi
+echo "exist"
